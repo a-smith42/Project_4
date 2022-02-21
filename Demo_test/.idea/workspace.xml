@@ -27,7 +27,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/create_tracks_table.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../project-a-smith42/Spotifriend - Python App" />
   </component>
   <component name="RunManager" selected="Python.create_tracks_table">
     <configuration name="MySQL_Connection_Obj" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -134,6 +134,7 @@
       <option name="presentableId" value="Default" />
       <updated>1637695426923</updated>
       <workItem from="1637695435468" duration="11388000" />
+      <workItem from="1642718125414" duration="31000" />
     </task>
     <servers />
   </component>
