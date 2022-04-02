@@ -1,0 +1,379 @@
+[
+    {
+        "items": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6sKGpXFS8bI6lKbRfhl52T"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 25485
+                },
+                "genres": [
+                    "kent indie"
+                ],
+                "href": "https://api.spotify.com/v1/artists/6sKGpXFS8bI6lKbRfhl52T",
+                "id": "6sKGpXFS8bI6lKbRfhl52T",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb72db465dc3ef0d5e0dd8a601",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517472db465dc3ef0d5e0dd8a601",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17872db465dc3ef0d5e0dd8a601",
+                        "width": 160
+                    }
+                ],
+                "name": "Will Varley",
+                "popularity": 41,
+                "type": "artist",
+                "uri": "spotify:artist:6sKGpXFS8bI6lKbRfhl52T"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1408333
+                },
+                "genres": [
+                    "comic"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2Waw2sSbqvAwK8NwACNjVo",
+                "id": "2Waw2sSbqvAwK8NwACNjVo",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb30d9a4acdf8cd3e8c0ad39ab",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517430d9a4acdf8cd3e8c0ad39ab",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17830d9a4acdf8cd3e8c0ad39ab",
+                        "width": 160
+                    }
+                ],
+                "name": "Bo Burnham",
+                "popularity": 76,
+                "type": "artist",
+                "uri": "spotify:artist:2Waw2sSbqvAwK8NwACNjVo"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 5097264
+                },
+                "genres": [
+                    "irish singer-songwriter",
+                    "pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2FXC3k01G6Gw61bmprjgqS",
+                "id": "2FXC3k01G6Gw61bmprjgqS",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb9ba4d95b74bacff4d5747f61",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051749ba4d95b74bacff4d5747f61",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1789ba4d95b74bacff4d5747f61",
+                        "width": 160
+                    }
+                ],
+                "name": "Hozier",
+                "popularity": 82,
+                "type": "artist",
+                "uri": "spotify:artist:2FXC3k01G6Gw61bmprjgqS"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 14120172
+                },
+                "genres": [
+                    "garage rock",
+                    "permanent wave",
+                    "rock",
+                    "sheffield indie"
+                ],
+                "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH",
+                "id": "7Ln80lUS6He07XvHI8qqHH",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb39f37a34b404169fdca52dc8",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517439f37a34b404169fdca52dc8",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17839f37a34b404169fdca52dc8",
+                        "width": 160
+                    }
+                ],
+                "name": "Arctic Monkeys",
+                "popularity": 88,
+                "type": "artist",
+                "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2WEbmcJ4QWGLjDhnw8byIG"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1098
+                },
+                "genres": [
+                    "belfast metal",
+                    "irish death metal",
+                    "uk doom metal"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2WEbmcJ4QWGLjDhnw8byIG",
+                "id": "2WEbmcJ4QWGLjDhnw8byIG",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb22608ca67ff7f8c454efc19a",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab6761610000517422608ca67ff7f8c454efc19a",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f17822608ca67ff7f8c454efc19a",
+                        "width": 160
+                    }
+                ],
+                "name": "The Crawling",
+                "popularity": 5,
+                "type": "artist",
+                "uri": "spotify:artist:2WEbmcJ4QWGLjDhnw8byIG"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7s3OoIocX1gTOnEvCg2VV8"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 227864
+                },
+                "genres": [
+                    "alternative emo",
+                    "modern rock"
+                ],
+                "href": "https://api.spotify.com/v1/artists/7s3OoIocX1gTOnEvCg2VV8",
+                "id": "7s3OoIocX1gTOnEvCg2VV8",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebfc465bab6b36fa76cf09f6f8",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174fc465bab6b36fa76cf09f6f8",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178fc465bab6b36fa76cf09f6f8",
+                        "width": 160
+                    }
+                ],
+                "name": "McCafferty",
+                "popularity": 63,
+                "type": "artist",
+                "uri": "spotify:artist:7s3OoIocX1gTOnEvCg2VV8"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 2247803
+                },
+                "genres": [
+                    "brighton indie",
+                    "modern rock",
+                    "rock"
+                ],
+                "href": "https://api.spotify.com/v1/artists/1GLtl8uqKmnyCWxHmw9tL4",
+                "id": "1GLtl8uqKmnyCWxHmw9tL4",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb720d6b8dd091334f38fb49ad",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174720d6b8dd091334f38fb49ad",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178720d6b8dd091334f38fb49ad",
+                        "width": 160
+                    }
+                ],
+                "name": "The Kooks",
+                "popularity": 71,
+                "type": "artist",
+                "uri": "spotify:artist:1GLtl8uqKmnyCWxHmw9tL4"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 687972
+                },
+                "genres": [
+                    "alt z",
+                    "indie pop",
+                    "modern indie pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/3u6lPufHw4Oww6D88rv6sB",
+                "id": "3u6lPufHw4Oww6D88rv6sB",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebfde0962fda6f8f05a1900e91",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174fde0962fda6f8f05a1900e91",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178fde0962fda6f8f05a1900e91",
+                        "width": 160
+                    }
+                ],
+                "name": "Penelope Scott",
+                "popularity": 70,
+                "type": "artist",
+                "uri": "spotify:artist:3u6lPufHw4Oww6D88rv6sB"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 755068
+                },
+                "genres": [
+                    "alternative rock",
+                    "britpop",
+                    "garage rock",
+                    "garage rock revival",
+                    "indie rock",
+                    "modern rock",
+                    "rock"
+                ],
+                "href": "https://api.spotify.com/v1/artists/4fSPtBgFPZzygkY6MehwQ7",
+                "id": "4fSPtBgFPZzygkY6MehwQ7",
+                "images": [
+                    {
+                        "height": 200,
+                        "url": "https://i.scdn.co/image/49ebae38f5e83eac3165bdc38f9ca560743f0ec2",
+                        "width": 200
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/481e5f20520c6f49971bd54abba29cff863139db",
+                        "width": 64
+                    }
+                ],
+                "name": "The Libertines",
+                "popularity": 61,
+                "type": "artist",
+                "uri": "spotify:artist:4fSPtBgFPZzygkY6MehwQ7"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 3532775
+                },
+                "genres": [
+                    "art pop",
+                    "dance pop",
+                    "electropop",
+                    "metropopolis",
+                    "pop",
+                    "uk alternative pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/6CwfuxIqcltXDGjfZsMd9A",
+                "id": "6CwfuxIqcltXDGjfZsMd9A",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb951d80a1db6ae486a5ce5f36",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174951d80a1db6ae486a5ce5f36",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178951d80a1db6ae486a5ce5f36",
+                        "width": 160
+                    }
+                ],
+                "name": "MARINA",
+                "popularity": 80,
+                "type": "artist",
+                "uri": "spotify:artist:6CwfuxIqcltXDGjfZsMd9A"
+            }
+        ],
+        "total": 40,
+        "limit": 10,
+        "offset": 0,
+        "href": "https://api.spotify.com/v1/me/top/artists?limit=10&offset=0&time_range=short_term",
+        "previous": null,
+        "next": "https://api.spotify.com/v1/me/top/artists?limit=10&offset=10&time_range=short_term"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "href": "https://api.spotify.com/v1/users/aliciasmith0703/playlists?offset=0&limit=1",
+        "items": [
+            {
+                "collaborative": false,
+                "description": "seed tracks for generating recommendations",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3xVk6cTkcR7Yq3AFl9v4Ar"
+                },
+                "href": "https://api.spotify.com/v1/playlists/3xVk6cTkcR7Yq3AFl9v4Ar",
+                "id": "3xVk6cTkcR7Yq3AFl9v4Ar",
+                "images": [],
+                "name": "SEED TRACKS",
+                "owner": {
+                    "display_name": "alicia 💀✨",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/aliciasmith0703"
+                    },
+                    "href": "https://api.spotify.com/v1/users/aliciasmith0703",
+                    "id": "aliciasmith0703",
+                    "type": "user",
+                    "uri": "spotify:user:aliciasmith0703"
+                },
+                "primary_color": null,
+                "public": false,
+                "snapshot_id": "MiwyMTc3MTdmZTFiNWRkZGYyYTE0MDhlMTEyYTMxMTNmOWZiZTJkZTlh",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/3xVk6cTkcR7Yq3AFl9v4Ar/tracks",
+                    "total": 0
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:3xVk6cTkcR7Yq3AFl9v4Ar"
+            }
+        ],
+        "limit": 1,
+        "next": "https://api.spotify.com/v1/users/aliciasmith0703/playlists?offset=1&limit=1",
+        "offset": 0,
+        "previous": null,
+        "total": 173
+    }
+]

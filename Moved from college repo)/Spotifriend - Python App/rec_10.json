@@ -1,0 +1,42 @@
+[
+    {
+        "href": "https://api.spotify.com/v1/users/aliciasmith0703/playlists?offset=0&limit=1",
+        "items": [
+            {
+                "collaborative": false,
+                "description": "Recommended songs based on aliciasmith0703&#x27;s top 5 tracks. Created with Spotifriend",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/7bIhkgfQMoY118HlNAXqVi"
+                },
+                "href": "https://api.spotify.com/v1/playlists/7bIhkgfQMoY118HlNAXqVi",
+                "id": "7bIhkgfQMoY118HlNAXqVi",
+                "images": [],
+                "name": "Spotifriend Recommendations",
+                "owner": {
+                    "display_name": "alicia 💀✨",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/aliciasmith0703"
+                    },
+                    "href": "https://api.spotify.com/v1/users/aliciasmith0703",
+                    "id": "aliciasmith0703",
+                    "type": "user",
+                    "uri": "spotify:user:aliciasmith0703"
+                },
+                "primary_color": null,
+                "public": false,
+                "snapshot_id": "Miw4M2U0NWQ2MjM3Y2E2YjAzMjMwYjBjZmQwMDQ0YzZhNjlkM2IyNjE5",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/7bIhkgfQMoY118HlNAXqVi/tracks",
+                    "total": 0
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:7bIhkgfQMoY118HlNAXqVi"
+            }
+        ],
+        "limit": 1,
+        "next": "https://api.spotify.com/v1/users/aliciasmith0703/playlists?offset=1&limit=1",
+        "offset": 0,
+        "previous": null,
+        "total": 173
+    }
+]

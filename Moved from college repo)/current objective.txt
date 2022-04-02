@@ -1,0 +1,4 @@
+GET RECOMMENDATIONS:
+- create playlist 'inspired'
+- generate recommendatiosn from song and track seeds
+- add recommended tracks to playlist

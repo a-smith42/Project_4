@@ -1,0 +1,5 @@
+- playlist of rec. songs based on user's liked artists (fb) and listening history (sp)
+- artists as seeds
+- search for similar artists and bands using echonest (ml, mit)
+- each artist scored based on freq. of search result appearance
+- playlist constructed using randomly picked songs from high freq. artists

@@ -1,0 +1,5 @@
+1. main
+2. sql connector
+3. create table
+4. convert
+5. top_artists (not in db yet)
